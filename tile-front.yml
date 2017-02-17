@@ -1,0 +1,23 @@
+background:
+  x: 0
+  y: 0
+
+travel-cost:
+  x: 165
+  y: 142
+
+found-resource:
+  x: 160
+  y: 85
+
+gather1:
+  x: 110
+  y: 190
+
+gather2:
+  x: 210
+  y: 190
+
+mystery:
+  x: 160
+  y: 150
